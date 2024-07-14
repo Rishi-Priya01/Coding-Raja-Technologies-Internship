@@ -21,7 +21,7 @@ The system allows users to:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Rishi-Priya01/Coding-Raja-Technologies-Internship.git
+   git clone https://github.com/Rishi-Priya01/Movie_Recommendation.git
    cd movie-recommendation-system
 2. Install dependencies:
    pip install pandas scikit-learn numpy ipywidgets
